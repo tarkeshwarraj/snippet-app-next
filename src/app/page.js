@@ -91,7 +91,7 @@ export default function Home() {
             src="/globe.svg"
             alt="Globe icon"
             width={16}
-            height={16}
+            height={17}
           />
           Go to nextjs.org →
         </a>
